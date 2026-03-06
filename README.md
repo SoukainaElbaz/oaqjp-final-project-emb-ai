@@ -25,7 +25,7 @@ It also determines the **dominant emotion** among these values.
 - Unit testing with unittest
 
 ## Project Structure
-emotion-detector/
+emotion-detector/  
 │
 ├── EmotionDetection/  
 │ ├── init.py  
@@ -63,4 +63,5 @@ http://127.0.0.1:5000
 ## Author
 
 Soukaina Elbaz
+
 
